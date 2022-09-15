@@ -1,0 +1,68 @@
+* {
+  padding: 5px;
+}
+.maindetails h3 {
+  text-align-last: right;
+}
+.maindetails p {
+  text-align-last: right;
+  position: relative;
+  bottom: 20px;
+}
+
+.subtotal {
+  display: flex;
+  margin-left: 80%;
+}
+
+textarea {
+  height: 200px;
+  width: 550px;
+}
+.bottomdetails {
+  display: flex;
+  text-align: justify;
+  position: relative;
+  bottom: 90px;
+  align-items: center;
+}
+.bottomdetails2{
+  display: flex;
+  text-align: justify;
+  position: relative;
+  bottom: 90px;
+  align-items: center;
+  bottom: 120px;
+}
+.maindetails2 {
+  position: relative;
+  bottom: 35px;
+}
+
+.clientdetails p {
+  position: relative;
+  bottom: 20px;
+}
+.clientdetails2 {
+  position: relative;
+  bottom: 65px;
+}
+
+.invoicenum2{
+  position: relative;
+  bottom: 95px;
+  text-align-last:end;
+}
+
+.tabledetails2{
+  position: relative;
+  bottom: 80px;
+}
+.notes2{
+  position: relative;
+  bottom: 100px;
+}
+.divider2{
+  position: relative;
+  bottom: 100px;
+}
