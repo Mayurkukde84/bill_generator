@@ -11,7 +11,7 @@ Install my-project with npm
 
 ```bash
   cd client
-  npm Install
+  npm install
   npm start
 ```
     
