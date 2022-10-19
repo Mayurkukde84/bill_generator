@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/invoice_generator/static/css/main.37417657.css",
+    "main.js": "/invoice_generator/static/js/main.411c9937.js",
+    "index.html": "/invoice_generator/index.html",
+    "main.37417657.css.map": "/invoice_generator/static/css/main.37417657.css.map",
+    "main.411c9937.js.map": "/invoice_generator/static/js/main.411c9937.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37417657.css",
+    "static/js/main.411c9937.js"
+  ]
+}
